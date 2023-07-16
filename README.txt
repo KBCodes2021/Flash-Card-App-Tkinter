@@ -1,0 +1,1 @@
+Password app made with Tkinter, uses a learning french csv, has a 3 second delay between card flip state
